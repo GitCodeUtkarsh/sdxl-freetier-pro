@@ -36,9 +36,6 @@ This notebook uses ComfyUI backend workflows directly, reducing overhead while m
 5. Enter your prompt
 6. Generate images
 
-## 📷 Example Output
-
-(Add generated images here)
 
 ## 🛠 Technologies Used
 
