@@ -4,6 +4,12 @@ An optimized Google Colab notebook for running SDXL text-to-image generation wit
 
 Designed specifically for Google Colab Free Tier.
 
+TRY IT HERE. ENJOY!
+
+| Notebook | Info |
+| :---: | :--- |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitCodeUtkarsh/sdxl-freetier-pro/blob/main/sdxl_freetier_pro.ipynb) | **sdxl_freetier_pro.ipynb** — Run SDXL text-to-image generation with optional LoRA support using ComfyUI backend. |
+
 ## ✨ Features
 
 - 🎨 SDXL Text-to-Image Generation
